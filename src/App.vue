@@ -52,7 +52,7 @@ export default {
 </script>
 
 <style lang="sass">
-body
+#app
   font-family: "Roboto Mono", monospace
 .container
   max-width: 900px
